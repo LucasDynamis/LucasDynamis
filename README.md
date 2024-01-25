@@ -7,10 +7,9 @@
  
 </div>
 <br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="https://github.com/LucasDynamis/LucasDynamis/assets/120510627/0dc5c129-bd81-426d-9bed-65602862506b">
     <h1 align="center">Tecnlogias do meu dia a dia:</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,6 +23,7 @@
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdynamis)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.dynamis/)
+  
   </div>
 
 
