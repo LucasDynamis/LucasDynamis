@@ -4,7 +4,7 @@
 <div>
   
  ![Lucas Github Stats](https://github-readme-stats.vercel.app/api?username=LucasDynamis&show_icons=true&theme=dracula)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDynamis&layout=donut&theme=dracula)
 </div>
 <br>
 <div  align="center"> 
